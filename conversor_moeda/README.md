@@ -1,16 +1,10 @@
-# conversor_moeda
+# Conversor de Moedas
 
-A new Flutter project.
+É um projeto simples de conversor de moedas utilizando a framework Flutter com a linguagem Dart. Basicamente, o aplicativo realiza a conversão de câmbios, baseado nas trocas de moedas entre Real, Dolar, Euro e BitCoin.
 
-## Getting Started
+![](https://github.com/Kilder-M/conversor-de-moeda/blob/master/conversor_moeda/assets/imagens/print.jfif)
 
-This project is a starting point for a Flutter application.
+## Feito com
 
-A few resources to get you started if this is your first Flutter project:
+* [Flutter](https://flutter.dev/) - Flutter é um kit de desenvolvimento de interface de usuário, de código aberto, criado pelo Google.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
